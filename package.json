@@ -1,0 +1,32 @@
+{
+  "name": "rest-mount",
+  "version": "0.1.0",
+  "description": "mount routes in RESTful servers",
+  "homepage": "http://www.neo9.fr",
+  "keywords": [
+    "rest",
+    "restful",
+    "routing",
+    "routes",
+    "mount"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/neo9/node-rest-mount.git"
+  },
+  "bugs": {
+    "url": "https://github.com/neo9/node-rest-mount/issues"
+  },
+  "licences": {
+    "type": "MIT"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "author": "mov <mov@neo9.fr>"
+}
+
