@@ -11,6 +11,8 @@ Usage
 
     var rmount = require('rest-mount');
 
+    var http = /* ... */;
+
     var routes = [
       {
         method: 'post',
